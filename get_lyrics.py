@@ -20,5 +20,6 @@ class Genius:
         return lyrics
         # returning results
 
-    def get_albums(self, artist_name):
-        artist = self.genius.search_artist(artist_name)
+    # def get_albums(self, artist_name):
+    #     artist = self.genius.search_artist(artist_name)
+
